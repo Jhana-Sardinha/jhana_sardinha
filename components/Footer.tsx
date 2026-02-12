@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
               <div className="w-9 h-9 bg-black text-[#5EEAD4] flex items-center justify-center rounded-lg rotate-[-3deg]">
                 <span className="mono font-bold text-lg">{`{}`}</span>
               </div>
-              <span className="text-2xl font-bold serif italic">Jana Sardinha</span>
+              <span className="text-2xl font-bold serif italic">Jhana Sardinha</span>
             </div>
             <p className="text-gray-600 text-lg leading-relaxed mb-10">
               Menos improviso, mais clareza. Eu te ajudo a organizar sua casa digital com a lógica que seu negócio merece.
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
                   <Instagram size={20} />
                 </div>
                 <div>
-                   <p className="font-bold text-gray-900">@janasardinha.sm</p>
+                   <p className="font-bold text-gray-900">@jhana_sardinha</p>
                    <p className="text-sm text-gray-500">Conteúdo diário no feed.</p>
                 </div>
               </li>
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-12 border-t border-black/5 gap-8">
           <p className="text-xs font-bold text-gray-400 uppercase tracking-widest text-center md:text-left leading-relaxed">
-            © 2024 Jana Sardinha. Criado com lógica e café em Itapira/SP.
+            © 2026 Jhana Sardinha. Criado com lógica e café em Itapira/SP.
           </p>
           <button 
             onClick={scrollToTop}

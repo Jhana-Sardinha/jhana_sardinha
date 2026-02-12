@@ -45,12 +45,12 @@ const About: React.FC = () => {
             <div className="flex-1">
               <p className="text-teal-400 mono text-xs mb-4 uppercase tracking-[0.2em]">// SOBRE MIM</p>
               <p className="text-2xl md:text-3xl leading-snug serif italic">
-                "Sou Jana Sardinha. Recém-formada em <strong>Programação Web</strong> e eterna aprendiz de Social Media. Meu foco é a transparência: não prometo fórmulas mágicas, prometo clareza, dedicação e um olhar organizado para a sua comunicação."
+                "Sou Jhana Sardinha. Recém-formada em <strong>Programação Web</strong> e eterna aprendiz de Social Media. Meu foco é a transparência: não prometo fórmulas mágicas, prometo clareza, dedicação e um olhar organizado para a sua comunicação."
               </p>
             </div>
             <div className="w-48 h-48 shrink-0 relative">
                <div className="absolute inset-0 bg-teal-500 rounded-full rotate-6"></div>
-               <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=300" className="absolute inset-0 w-full h-full object-cover rounded-full -rotate-3 border-4 border-white" alt="Jana Sardinha" />
+               <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=300" className="absolute inset-0 w-full h-full object-cover rounded-full -rotate-3 border-4 border-white" alt="Jhana Sardinha" />
             </div>
           </div>
         </div>

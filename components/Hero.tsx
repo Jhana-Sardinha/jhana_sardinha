@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
               Não tenho todas as respostas, mas tenho um <span className="italic serif">método</span> para a gente parar de <span className="scribble-underline">improvisar</span>.
             </h1>
             <p className="text-lg text-gray-700 max-w-md mb-8 leading-relaxed">
-              Sou <strong>Jana Sardinha</strong>. Uso o que aprendi na <strong>Programação Web</strong> para ajudar pequenos negócios a organizarem sua comunicação com clareza e direção. Sem fórmulas mágicas, apenas dedicação.
+              Sou <strong>Jhana Sardinha</strong>. Uso o que aprendi na <strong>Programação Web</strong> para ajudar pequenos negócios a organizarem sua comunicação com clareza e direção. Sem fórmulas mágicas, apenas dedicação.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="bg-black text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-teal-500 transition-all custom-shadow flex items-center justify-center gap-2 active:scale-95">
@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             {/* Main Photo Card */}
             <div className="collage-item absolute z-10 w-64 md:w-80 h-80 md:h-[400px] bg-white shadow-2xl rotate-[-3deg] p-3 border border-black/5 translate-x-[-10%] lg:translate-x-[-20%]">
               <div className="w-full h-full bg-gray-100 overflow-hidden relative">
-                  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=600" className="w-full h-full object-cover grayscale opacity-90" alt="Jana Sardinha" />
+                  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=600" className="w-full h-full object-cover grayscale opacity-90" alt="Jhana Sardinha" />
                   <div className="absolute inset-0 bg-teal-500/10 mix-blend-multiply"></div>
               </div>
             </div>

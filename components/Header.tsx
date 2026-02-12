@@ -10,7 +10,7 @@ const Header: React.FC = () => {
           <div className="w-10 h-10 bg-black text-[#5EEAD4] flex items-center justify-center rounded-sm rotate-[-3deg] group-hover:rotate-0 transition-transform">
             <Terminal size={20} />
           </div>
-          <span className="text-xl font-bold tracking-tight serif italic">Jana <span className="text-teal-600 not-italic font-sans text-lg">Sardinha</span></span>
+          <span className="text-xl font-bold tracking-tight serif italic">Jhana <span className="text-teal-600 not-italic font-sans text-lg">Sardinha</span></span>
         </div>
 
         <nav className="hidden md:flex items-center gap-8 text-sm font-medium uppercase tracking-widest">
